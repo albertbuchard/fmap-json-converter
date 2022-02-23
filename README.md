@@ -16,3 +16,6 @@ If the output directory is not specified, the output will overwrite the files.
 ```
 python main.py -d=<directory>
 ```
+
+The directory is relative to the current working directory where the script is called.
+You can also move the `main.py` script to a different directory if it is easier.
